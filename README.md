@@ -45,8 +45,6 @@ I was originally using Apple Music and I loved the original Apple Music Lossless
 
 ## Prerequisites
 Due to how the app works, this app is not, and cannot be sandboxed.
-It also has the following requirement, due to the use of `OSLog` API: 
-- The user running LosslessSwitcher must be an **admin**. This is not tested and assumed due to this [Apple Developer Forums thread](https://developer.apple.com/forums/thread/677068).
 - Tidal app must be set to max or high quality mode. (well, of course)
 
 Other than that, it should run on any Mac running macOS 11.4 or later.
