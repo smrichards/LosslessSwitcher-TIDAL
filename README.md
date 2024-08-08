@@ -16,6 +16,7 @@ Let's say if the next song that you are playing, is a Hi-Res Lossless track with
 The opposite happens, when the next track happens to have a lower sample rate. 
 
 ## Installation
+Simply go to the Releases page of this repository or via [link to latest release](https://github.com/smrichards/LosslessSwitcher-TIDAL/releases/tag/v1.0)
 
 Drag the app to your Applications folder. If you wish to have it running when logging in, you should be able to add LosslessSwitcher in System Settings:
 
