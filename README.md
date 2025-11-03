@@ -6,7 +6,7 @@
 #  
 This is a fork of the Apple Music Lossless Switcher app: https://github.com/vincentneo/LosslessSwitcher
 
-This app is modified to not read the apple music logs and to read the Tidal logs from disk. The rest of the functionality is the same.
+This app is modified to not read the apple music logs and to read the Tidal logs from disk. The rest of the functionality is the same.-this is just a test
 
 
 LosslessSwitcher-TIDAL switches your current audio device's sample rate to match the currently playing lossless song on your Tidal app, automatically.
