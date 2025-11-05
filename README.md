@@ -4,6 +4,8 @@
 </p>
 
 #  
+
+this is a test line, make sure you remove later
 This is a fork of the Apple Music Lossless Switcher app: https://github.com/vincentneo/LosslessSwitcher
 
 This app is modified to not read the apple music logs and to read the Tidal logs from disk. The rest of the functionality is the same.
