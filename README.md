@@ -3,6 +3,8 @@
 
 </p>
 
+This is just a test line, If you can spot this then make sure you remove it!
+
 #  
 This is a fork of the Apple Music Lossless Switcher app: https://github.com/vincentneo/LosslessSwitcher
 
